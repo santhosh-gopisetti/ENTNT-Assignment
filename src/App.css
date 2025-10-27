@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #0056b3;
+}
+
+.page-content {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
