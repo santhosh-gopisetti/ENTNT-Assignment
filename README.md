@@ -2,7 +2,7 @@
 
 This is a React-based frontend application for "TalentFlow," a mini hiring platform, built as part of a technical assignment.
 
-**Live Deployed Link:** `[YOUR VERCEL/NETLIFY LINK HERE]`
+**Live Deployed Link:** `https://entnttalentflow.netlify.app/`
 
 
 ---
@@ -13,7 +13,7 @@ To run this project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR GITHUB REPO LINK HERE]
+    git clone https://github.com/santhosh-gopisetti/ENTNT-Assignment
     cd talentflow-minimal
     ```
 
